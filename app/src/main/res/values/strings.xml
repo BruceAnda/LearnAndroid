@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LearnAndroid</string>
+
+    <!-- 主界面列表数据 -->
+    <string-array name="MainListDatas">
+        <item>快速入门</item>
+        <item>UI</item>
+        <item>数据存储</item>
+        <item>Activity</item>
+        <item>Service</item>
+        <item>ContentProvider</item>
+        <item>BroadCast</item>
+        <item>消息和异步任务</item>
+        <item>动画</item>
+        <item>多媒体</item>
+    </string-array>
+</resources>
